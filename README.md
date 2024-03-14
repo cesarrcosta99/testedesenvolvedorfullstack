@@ -14,9 +14,9 @@ Este projeto foi desenvolvido como parte de um teste técnico e consiste em um s
  - PostgreSQL: 13.3
 
  # Como Rodar o Projeto Localmente
- # Pré-requisitos
-    -Ter Node.js e npm/yarn instalados.
-    -Ter o PostgreSQL instalado e rodando em sua máquina.
+  # Pré-requisitos
+    - Ter Node.js e npm/yarn instalados.
+    - Ter o PostgreSQL instalado e rodando em sua máquina.
 
 # Configurando o Banco de Dados
 - Acesse o PostgreSQL com seu usuário. Isso pode ser feito via linha de comando ou utilizando uma interface gráfica como o pgAdmin.
