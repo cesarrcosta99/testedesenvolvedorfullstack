@@ -22,7 +22,6 @@ Este projeto foi desenvolvido como parte de um teste técnico e consiste em um s
 - Acesse o PostgreSQL com seu usuário. Isso pode ser feito via linha de comando ou utilizando uma interface gráfica como o pgAdmin.
 - Crie um banco de dados chamado sistema_clientes. No pgAdmin, isso pode ser feito com um clique direito em "Databases" e selecionando "Create" > "Database".
 - Utilize o DDL fornecido no arquivo database.sql para criar a tabela clientes. No pgAdmin, você pode executar este script SQL abrindo o Query Tool (Ferramenta de Consulta) no banco de dados criado.
-- 
 # Backend
 - Navegue até a pasta do backend.
 - Execute npm install ou yarn install para instalar as dependências.
