@@ -33,6 +33,5 @@ Este projeto foi desenvolvido como parte de um teste técnico e consiste em um s
 - Acesse http://localhost:3000 em seu navegador para ver a aplicação rodando.
 
 # Vídeo Explicativo
-Confira o vídeo explicativo do projeto [aqui](https://youtu.be/0xPL0KI7ClY).
+- Confira o vídeo explicativo do projeto [aqui](https://youtu.be/0xPL0KI7ClY).
 
-  - Confira o vídeo explicativo do projeto
